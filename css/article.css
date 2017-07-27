@@ -1,0 +1,124 @@
+#new_article input, #new_article textarea, #new_article select {
+	background-color: #FFFFFF;
+}
+
+#new_article_info, #new_article_comands, #new_article_options, #new_article_picture {
+	width: 970px;
+	margin: auto;
+}
+
+#new_article_options {
+	width: 980px;
+	margin-top: 20px;
+}
+
+#new_article_limit  {
+	width: 462px;
+	float: left;
+	margin-right: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #ADADAD;
+	border-radius: 5px;
+	background: linear-gradient(#ffffff, #eeeeee);
+}
+
+#new_article_stock {
+	width: 462px;
+	float: right;
+	margin-left: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #ADADAD;
+	border-radius: 5px;
+	background: linear-gradient(#ffffff, #eeeeee);
+}
+
+#new_article_picture {
+	margin-top: 20px;
+}
+
+#new_article_picture input {
+	width: 950px;
+}
+
+#new_article_comands textarea {
+	width: 950px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	resize: none;
+}
+
+#new_article_comands select {
+	width: 960px;
+	margin-bottom: 5px;
+}
+
+.new_article_amount {
+	width: 395px;
+}
+
+.new_article_time {
+	width: 330px;
+}
+
+#new_article_title {
+	width: 955px;
+	margin-bottom: 10px;
+}
+
+#new_article_description {
+	width: 955px;
+	resize: none;
+	margin-bottom: 10px;
+}
+
+#new_article_needed {
+	width: 965px;
+	margin-bottom: 10px;
+}
+
+#new_article_price {
+	width: 290px;
+	margin-bottom: 10px;
+}
+
+#new_article_expiration_type {
+	width: 300px;
+}
+
+#new_article_expiration_number {
+	width: 280px;
+}
+
+#new_article_submit {
+	float: right;
+	margin-top: 20px;
+	width: 485px;
+	background-color: #3F9FFF !important;
+	color: #FFFFFF;
+	border: none;
+	font-size: 20px;
+}
+
+#new_article_submit:hover {
+	background-color: #3077BE !important;
+}
+
+#new_article_delete {
+	margin-top: 20px;
+	width: 485px;
+	background-color: #FF4242 !important;
+	color: #FFFFFF;
+	border: none;
+	font-size: 20px;
+}
+
+#new_article_delete:hover {
+	background-color: #BC3131 !important;
+}
+
+.required {
+	box-shadow: 0px 0px 5px 0px red;
+	border: 1px solid red;
+}

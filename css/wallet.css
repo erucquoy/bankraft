@@ -1,0 +1,22 @@
+#wallet-table {
+	border-collapse: true;
+	width: 950px;
+}
+
+#wallet-table tr {
+
+}
+
+#wallet-table td {
+	width: 310px;
+	padding: 10px;
+}
+
+.wallet-logo {
+	height: 50px;
+	margin: auto;
+}
+
+#pricetokens {
+	width: 180px;
+}

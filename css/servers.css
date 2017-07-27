@@ -1,0 +1,43 @@
+#servers {
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid #ADADAD;
+	padding: 0;
+	border-radius: 5px;
+	background: linear-gradient(#ffffff, #eeeeee);
+	margin-bottom: 50px;
+}
+
+#servers th {
+	border: 1px solid #ADADAD;
+}
+
+#servers td {
+	border: 1px solid #ADADAD;
+	margin: 0;
+	padding: 5px;
+	
+}
+
+#new_server {
+	width: 1000px;
+	margin: auto;
+	padding: 0;
+	margin-top: 10px;
+}
+
+#new_server input[TYPE=TEXT] {
+	width: 400px;
+}
+
+#new_server input[TYPE=SUBMIT] {
+	width: 145px;
+}
+
+#servers_name, #servers_address {
+	width: 250px;
+}
+
+#servers_key {
+	width: 200px;
+}

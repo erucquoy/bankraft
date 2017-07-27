@@ -1,0 +1,61 @@
+#store {
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid #ADADAD;
+	padding: 0;
+	border-radius: 5px;
+	background: linear-gradient(#ffffff, #eeeeee);
+	margin-bottom: 50px;
+}
+
+#store th {
+	border: 1px solid #ADADAD;
+}
+
+#store td {
+	border: 1px solid #ADADAD;
+	margin: 0;
+	padding: 5px;
+	min-height: 50px;
+}
+
+#store img {
+	max-height: 50px;
+	max-width: 100px;
+}
+
+.store_picture {
+	width: 120px;
+	text-align: center;
+}
+
+.store_price {
+	width: 90px;
+	text-align: center;
+}
+
+.store_duration {
+	width: 90px;
+	text-align: left;
+}
+
+#store_header {
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+}
+
+#store_header h1 {
+	float: left;
+}
+
+#store_header input {
+	margin-top: 40px;
+}
+
+#no_products {
+	width: 100%;
+	text-align: center;
+	margin-top: 150px;
+	margin-bottom: 150px;
+}

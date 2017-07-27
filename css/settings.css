@@ -1,0 +1,19 @@
+#settings_security {
+	width: 460px;
+	float: left;
+	height: 120px;
+}
+
+#settings_security input {
+	width: 440px;
+}
+
+#settings_email {
+	float: right;
+	width: 460px;
+	height: 120px;
+}
+
+#settings_email input {
+	width: 440px;
+}
